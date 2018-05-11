@@ -11,4 +11,4 @@ WORKDIR $APPROOT
 
 RUN pip install -r requirements.txt
 
-CMD ["dtk.py", "--json"]
+CMD ["dtk.py", "--help"]
