@@ -28,7 +28,7 @@ class Dtk(ChrisApp):
     TYPE            = 'ds'
     DESCRIPTION     = 'A plugin app for the DiffusionToolkit'
     DOCUMENTATION   = 'http://wiki'
-    VERSION         = '0.1'
+    VERSION         = '0.1.1'
     LICENSE         = 'Opensource (MIT)'
 
     # Fill out this with key-value output descriptive info (such as an output file path
